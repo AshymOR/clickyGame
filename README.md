@@ -1,2 +1,0 @@
-# clickyGame
-homework15

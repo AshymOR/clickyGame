@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "https://www.mariowiki.com/images/a/aa/Mario_MP100.png",
+        "touched": false
+    },
+    {
+        "id": 2,
+        "image": "https://www.mariowiki.com/images/b/b7/SuperMarioParty_Peach_2.png",
+        "touched": false
+    },
+    {
+        "id": 3,
+        "image": "https://www.mariowiki.com/images/a/a9/SuperMarioParty_Daisy.png",
+        "touched": false
+    },
+    {
+        "id": 4,
+        "image": "https://www.mariowiki.com/images/b/bb/SuperMarioParty_Luigi.png",
+        "touched": false
+    },
+    {
+        "id": 5,
+        "image": "https://www.mariowiki.com/images/2/27/SuperMarioParty_Waluigi.png",
+        "touched": false
+    },
+    {
+        "id": 6,
+        "image": "https://www.mariowiki.com/images/3/3c/Wario_MP100.png",
+        "touched": false
+    },
+    {
+        "id": 7,
+        "image": "https://www.mariowiki.com/images/3/3f/Metal_Mario_Artwork_-_Mario_Kart_7.png",
+        "touched": false
+    },
+    {
+        "id": 8,
+        "image": "https://www.mariowiki.com/images/7/7e/Bowser_-_Mario_Party_10.png",
+        "touched": false
+    },
+    {
+        "id": 9,
+        "image": "https://www.mariowiki.com/images/d/db/SMR_Toad.png",
+        "touched": false
+    },
+    {
+        "id": 10,
+        "image": "https://www.mariowiki.com/images/0/07/ToadetteMP8.png",
+        "touched": false
+    },
+    {
+        "id": 11,
+        "image": "https://www.mariowiki.com/images/4/4d/Yoshi_-_Mario_Party_10.png",
+        "touched": false
+    },
+    {
+        "id": 12,
+        "image": "https://www.mariowiki.com/images/4/41/SMPBowserJr.png",
+        "touched": false
+    }
+]
